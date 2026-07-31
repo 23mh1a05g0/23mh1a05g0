@@ -235,9 +235,15 @@ Built during a Full Stack Dev Internship @ Technical Hub — 5-member Agile team
 
 <h2 align="center">🧩 Coding Profiles</h2>
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kalesha_666&theme=dark)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kalesha_666?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
-[![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/kalesha_666?theme=dark)](https://leetcode.com/u/kalesha_666/)
+<p align="center">
+  <a href="https://leetcode.com/u/kalesha_666/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
@@ -247,7 +253,7 @@ Built during a Full Stack Dev Internship @ Technical Hub — 5-member Agile team
   <img src="https://raw.githubusercontent.com/23mh1a05g0/23mh1a05g0/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> 💡 *To enable the animated snake above, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named after your username — instructions in the note at the bottom of this file.*
+> 💡 *This won't display until you complete a one-time setup: add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo (`23mh1a05g0/23mh1a05g0`). Ask me and I'll write the exact workflow file for you.*
 
 ---
 
