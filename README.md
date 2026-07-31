@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F75FE,100:8E2DE2&height=220&section=header&text=Kalesha%20Vali%20Dokuparthi&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer%20%7C%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F75FE,100:8E2DE2&height=220&section=header&text=Kalesha%20Vali%20Dokuparthi&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20%2F%20Full%20Stack%20Developer%20%7C%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
