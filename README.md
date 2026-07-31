@@ -1,147 +1,218 @@
-<!-- HEADER -->
-<h1 align="center">Hi there 👋, I'm Kalesha Vali Dokuparthi</h1>
-<h3 align="center">Backend & Full Stack Developer | Mobile Developer | Software Engineer</h3>
-
+<!-- ANIMATED HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F75FE&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(React+%7C+Node.js+%7C+Spring+Boot);Flutter+%7C+Java+%7C+Python+Programmer;Cloud+%26+DevOps+(AWS+%7C+Docker+%7C+Kubernetes);AI%2FML+Enthusiast+(TensorFlow+%7C+OpenAI+API);9.0+CGPA+CS+Engineering+Student" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F75FE,100:8E2DE2&height=220&section=header&text=Kalesha%20Vali%20Dokuparthi&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer%20%7C%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=23mh1a05g0&label=Profile%20Views&color=1F75FE&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-9.0%2F10-blue?style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(React+%7C+Node.js+%7C+Spring+Boot);Flutter+%7C+Java+%7C+Python+Programmer;Cloud+%26+DevOps+(AWS+%7C+Docker+%7C+Kubernetes);AI%2FML+Enthusiast+(TensorFlow+%7C+OpenAI+API);9.0+CGPA+CS+Engineering+Student" alt="Typing SVG" />
 </p>
 
----
-
-## 🚀 About Me
-
-```yaml
-name: "Kalesha Vali Dokuparthi"
-role: "Junior Software Developer (Entry-Level, Targeting)"
-education: "B.Tech CSE @ Aditya College of Engineering and Technology | CGPA: 9.0/10"
-location: "Ongole, Andhra Pradesh, India"
-focus: ["Full-Stack Web & Mobile", "Backend Microservices", "AI-Integrated Systems"]
-currently_building: "AI-powered, scalable, production-style applications"
-fun_fact: "Ranked 7th / 160 teams at Project Space Hackathon 🏆"
-```
-
-- 🔭 Experienced in shipping **full-stack web & mobile apps** with **React.js, Node.js, Flutter & MongoDB**
-- 🏗️ Architected production-style systems using **Spring Boot microservices, Docker & AWS (S3, EC2)**
-- 🤖 Built **AI-powered solutions** integrating **TensorFlow** and the **OpenAI API**
-- 📜 Holds **6 industry certifications** across Red Hat, Oracle, MongoDB, and Microsoft
-- 🌱 Strong fundamentals in **Java, Python, OOP & Data Structures**
-- 💬 Ask me about: **Flutter, Spring Boot, MERN stack, AI prompt engineering**
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="mailto:kaleshavalid2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/kalesha-vali">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/23mh1a05g0">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="tel:+918143837005">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=23mh1a05g0&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-9.0%2F10-1F75FE?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/23mh1a05g0?style=for-the-badge&color=8E2DE2&label=Followers" />
 </p>
 
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,dart" />
+<p align="center">
+  <a href="mailto:kaleshavalid2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kalesha-vali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/23mh1a05g0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="tel:+918143837005"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-**Web & Mobile**
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,flutter" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F75FE,100:8E2DE2&height=2&width=1000" width="90%"/>
 </p>
 
-**Backend, APIs & Databases**
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,firebase" />
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<h2 align="center">🚀 About Me</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👩‍💻 Who I Am
+CS Engineering student with a **9.0 CGPA**, hands-on experience shipping full-stack web & mobile apps using **React.js, Node.js, Flutter & MongoDB**. Architected production-style systems with **Spring Boot microservices, Docker & AWS**, and delivered **AI-powered solutions** integrating **TensorFlow** and the **OpenAI API**.
+
+📍 Ongole, Andhra Pradesh, India
+🎓 B.Tech CSE @ Aditya College of Engineering & Technology
+🏆 Rank 7 / 160 teams — Project Space Hackathon
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Quick Facts
+| | |
+|---|---|
+| 🧠 **Focus** | Full-Stack · Backend · AI Systems |
+| 🛠️ **Building** | AI-powered scalable apps |
+| 📜 **Certs** | 6 (Red Hat, Oracle, MongoDB, Microsoft) |
+| 💬 **Ask me about** | Flutter, Spring Boot, MERN, Prompt Engineering |
+| 🎯 **Targeting** | Junior Software Developer roles |
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F75FE,100:8E2DE2&height=2&width=1000" width="90%"/>
 </p>
 
-**Cloud & DevOps**
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<h2 align="center">🛠️ Technical Skills</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**💻 Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,dart&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+**🌐 Web & Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,flutter&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+**🗄️ Backend & DB**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,firebase&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**☁️ Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+**🤖 AI & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,postman,vscode,figma&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+**📡 APIs & Messaging**
+<br/>
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" />
+<img src="https://img.shields.io/badge/REST-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-1F75FE?style=for-the-badge"/>
 </p>
 
-**AI, Messaging & Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,postman,vscode,figma" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F75FE,100:8E2DE2&height=2&width=1000" width="90%"/>
 </p>
 
-**Testing**
-<p>
-<img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unit%20%26%20Integration%20Testing-0052CC?style=for-the-badge"/>
-</p>
+<h2 align="center">📱 Featured Projects</h2>
 
----
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 📱 Featured Projects
+### 🚨 SAFEPULSE
+**AI-Based Travel Safety System**
 
-### 🚨 SAFEPULSE — AI-Based Travel Safety System
-🏆 **Rank 7 / 160 Teams** — Project Space Hackathon
-`Flutter` `Spring Boot` `Node.js` `MongoDB` `Firebase` `TensorFlow`
-- Live GPS tracking, SOS alert dispatch & smart route risk analysis with **sub-2s emergency response latency**
-- Spring Boot microservices + Node.js backend supporting **50+ concurrent users** with zero data loss
-- TensorFlow-based accident detection & ML route recommendation → **35% improved safety accuracy**
+<img src="https://img.shields.io/badge/🏆_Rank-7%2F160_Teams-FFD700?style=flat-square"/>
 
-### 🧠 LLM-Powered Prompt Router for Intent Classification
-`React` `Node.js` `Python` `OpenAI API` `Docker`
-- AI prompt routing system classifying intent across **5+ personas** with **sub-1s latency**
-- Cut misclassification rate by **40%** through iterative prompt tuning
-- **99%+ interaction reliability**, containerized with Docker for zero-drift deployment
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+- ⚡ Live GPS tracking + SOS alerts — **sub-2s emergency response**
+- 🧩 Spring Boot + Node.js microservices — **50+ concurrent users**, zero data loss
+- 🎯 TensorFlow accident detection — **+35% safety accuracy**
+
+[🔗 View Repo](https://github.com/23mh1a05g0)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 LLM Prompt Router
+**Intent Classification System**
+
+<img src="https://img.shields.io/badge/⚡_Latency-Sub--1s-00C853?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+- 🧭 Classifies intent across **5+ personas**, sub-1s latency
+- 📉 Cut misclassification rate by **40%** via prompt tuning
+- ✅ **99%+ reliability**, Docker-containerized deployment
+
+[🔗 View Repo](https://github.com/23mh1a05g0)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 📋 IDzyne — Smart Attendance Management System
-`Flutter` `Dart` `Node.js` `Express` `Firebase`
-- Delivered as Full Stack Dev Intern @ Technical Hub in a 5-member Agile team, 2 sprints
-- 3+ Flutter frontend screens wired to Node.js/Express/Firebase backend
 
----
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
-## 📚 Certifications
+Built during a Full Stack Dev Internship @ Technical Hub — 5-member Agile team, 2 sprint cycles, 5+ core modules shipped on schedule including attendance tracking, report generation & trainee dashboards. Wired 3+ Flutter frontend screens to a Node.js/Express/Firebase backend.
 
-| Certification | Issuer |
-|---|---|
-| 🟥 RHCSA (Red Hat Certified System Administrator) | Red Hat |
-| 🟧 Oracle Certified Foundations – Java | Oracle |
-| 🟦 Oracle Certified Foundations – Database | Oracle |
-| 🍃 MongoDB Associate Developer | MongoDB |
-| Ⓜ️ GitHub Foundations | Microsoft |
-| 🟪 IT Specialist – HTML & CSS | Certiport |
+</td>
+</tr>
+</table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F75FE,100:8E2DE2&height=2&width=1000" width="90%"/>
+</p>
 
-## 🏆 Achievements
+<h2 align="center">📚 Certifications</h2>
 
-- 💡 **150+** problems solved on LeetCode
-- 🚀 **300+** problems solved on CodeChef
-- 📘 **100+** problems solved on GeeksforGeeks
-- ⭐ HackerRank **5-star** in Java, Python, SQL, C
-- 🥇 Ranked **7th / 160 teams** — Project Space Hackathon (SAFEPULSE)
-- 🛠️ Multiple Cisco & Red Hat badges (Java, Python, OS, C)
+<p align="center">
+  <img src="https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Java_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_DB_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB_Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IT_Specialist_HTML%2FCSS-1572B6?style=for-the-badge&logo=w3c&logoColor=white"/>
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F75FE,100:8E2DE2&height=2&width=1000" width="90%"/>
+</p>
 
-## 📊 GitHub Analytics
+<h2 align="center">🏆 Achievements</h2>
+
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CodeChef-300%2B%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/HackerRank-5★_Java%2FPython%2FSQL%2FC-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://img.shields.io/badge/🥇_Project_Space_Hackathon-Rank_7%2F160-FFD700?style=for-the-badge"/></td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F75FE,100:8E2DE2&height=2&width=1000" width="90%"/>
+</p>
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=23mh1a05g0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -162,7 +233,7 @@ fun_fact: "Ranked 7th / 160 teams at Project Space Hackathon 🏆"
 
 ---
 
-## 🧩 Coding Profiles
+<h2 align="center">🧩 Coding Profiles</h2>
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kalesha_666&theme=dark)
 
@@ -170,25 +241,28 @@ fun_fact: "Ranked 7th / 160 teams at Project Space Hackathon 🏆"
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/23mh1a05g0/23mh1a05g0/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> 💡 *To enable the animated snake above, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named after your username — see setup note below.*
+> 💡 *To enable the animated snake above, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named after your username — instructions in the note at the bottom of this file.*
 
 ---
 
-## 🤝 Open to Opportunities
-
-💼 **Junior Software Developer** roles (entry-level)
-🌐 **Full-Stack Development** (React / Node.js / Spring Boot)
-📱 **Flutter App Development** projects
-🤖 **AI-Integrated Applications** (TensorFlow / OpenAI API)
-
----
+<h2 align="center">🤝 Open to Opportunities</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+⭐+Star+a+repo+if+you+like+my+work;Always+learning%2C+always+building.">
+  <img src="https://img.shields.io/badge/💼_Junior_Software_Developer-1F75FE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Full--Stack_Development-8E2DE2?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/📱_Flutter_App_Development-1F75FE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖_AI--Integrated_Apps-8E2DE2?style=for-the-badge"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=888888&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by!+⭐+Star+a+repo+if+you+like+my+work;Always+learning%2C+always+building." />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:1F75FE&height=150&section=footer" width="100%"/>
