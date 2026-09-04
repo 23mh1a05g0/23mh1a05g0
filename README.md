@@ -33,8 +33,9 @@
   <a href="#-tech-stack"><strong>Tech Stack</strong></a> &nbsp;•&nbsp;
   <a href="#-featured-projects"><strong>Projects</strong></a> &nbsp;•&nbsp;
   <a href="#-experience--education"><strong>Timeline</strong></a> &nbsp;•&nbsp;
-  <a href="#-certifications--achievements"><strong>Certs & Stats</strong></a> &nbsp;•&nbsp;
-  <a href="#-github-analytics"><strong>Analytics</strong></a> &nbsp;•&nbsp;
+  <a href="#-certifications"><strong>Certifications</strong></a> &nbsp;•&nbsp;
+  <a href="#-coding-profiles--statistics"><strong>Coding Profiles</strong></a> &nbsp;•&nbsp;
+  <a href="#-github-analytics"><strong>GitHub Analytics</strong></a> &nbsp;•&nbsp;
   <a href="#-lets-connect"><strong>Contact</strong></a>
 </p>
 
@@ -237,38 +238,44 @@ const kaleshaVali = {
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 📜 Certifications & Achievements
+## 📜 Certifications
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📜 Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/Oracle-Java_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/Oracle-Database_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/MongoDB-Associate_Developer-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=flat-square&logo=github&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/Microsoft-IT_Specialist_HTML%2FCSS-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-Java_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-Database_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-IT_Specialist_HTML%2FCSS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
-</td>
-<td width="50%" valign="top">
+<hr/>
 
-### 🏅 Coding Profiles & Stats
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-| Platform | Achievements |
-|----------|--------------|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/> | **150+** Problems Solved |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/> | **300+** Problems Solved |
-| <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/> | **100+** Problems Solved |
-| <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/> | **5★** in Java, Python, SQL, C |
+## 🧩 Coding Profiles & Statistics
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://leetcode.com/u/kalesha_666/">
+    <img src="https://leetcard.jacoblin.cool/kalesha_666?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Heatmap & Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/kalesha_666/">
+    <img src="https://img.shields.io/badge/LeetCode-kalesha__666-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/kalesha_666">
+    <img src="https://img.shields.io/badge/CodeChef-300%2B_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/kaleshavali/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-100%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/kalesha_666">
+    <img src="https://img.shields.io/badge/HackerRank-5★_Gold-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
 <hr/>
 
@@ -284,17 +291,6 @@ const kaleshaVali = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=23mh1a05g0&theme=tokyonight&hide_border=true" />
 </p>
-
-<details>
-<summary><b>📈 LeetCode Heatmap & Profile</b></summary>
-<br/>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kalesha_666?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Heatmap" />
-</p>
-<p align="center">
-  <a href="https://leetcode.com/u/kalesha_666/"><img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
-</details>
 
 <hr/>
 
