@@ -45,22 +45,40 @@
 
 ## ⚡ About Me
 
-```javascript
-const kaleshaVali = {
-  role:       "Full Stack Developer & AI Engineer",
-  education:  "B.Tech CSE @ ACET (9.0 / 10 CGPA)",
-  location:   "Ongole, Andhra Pradesh, India 🇮🇳",
-  coreStack:  ["React.js", "Node.js", "Spring Boot", "Flutter", "MongoDB", "AWS"],
-  achievements: [
-    "Rank 7 / 160 Teams — Project Space Hackathon",
-    "6 Industry Certifications (Red Hat, Oracle, MongoDB, Microsoft)",
-    "550+ Competitive Programming Problems Solved"
-  ],
-  seeking:    "Junior Software Developer | Full-Stack | Backend Roles"
-};
-```
+<table align="center" width="100%">
+<tr>
+<td width="42%" valign="top">
 
-> **CS Engineering student (9.0 CGPA)** with hands-on experience architecting production-grade web & mobile applications. Experienced in building **Spring Boot microservices**, **Kafka event pipelines**, **Docker containerization**, and **AI-powered solutions** using TensorFlow and OpenAI API. Built a real-time travel safety system that ranked **7th out of 160 teams** at a national hackathon.
+### 👤 Profile Summary
+<br/>
+
+- 🎓 **Degree:** B.Tech in CSE
+- 🏫 **College:** Aditya College of Engg. & Tech.
+- 📈 **Academic Score:** **9.0 / 10 CGPA**
+- 📍 **Location:** Ongole, Andhra Pradesh 🇮🇳
+- 🎯 **Role Targets:** Junior SDE · Full Stack · Backend
+- 🏆 **Top Standing:** **Rank 7 / 160** National Hackathon
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Actively_Job_Hunting-238636?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-550%2B_DSA-8957e5?style=flat-square"/>
+</p>
+
+</td>
+<td width="58%" valign="top">
+
+### 💡 Core Engineering DNA
+<br/>
+
+> **Computer Science Engineering student** who builds production-ready web and mobile applications with microservices architecture, event pipelines, and AI capabilities.
+
+- 🚀 **Full-Stack & Mobile:** Architecting applications with React, Node.js, Spring Boot, and Flutter.
+- ⚙️ **Event-Driven & Microservices:** Implementing Resilience4j Circuit Breakers, Kafka event streaming, and Docker orchestration.
+- 🤖 **Applied AI/ML:** Integrating TensorFlow safety models and OpenAI RAG pipelines for real-world document intelligence and travel safety.
+
+</td>
+</tr>
+</table>
 
 <hr/>
 
@@ -221,18 +239,58 @@ const kaleshaVali = {
 
 ## 📐 Experience & Education
 
-```
- 2024 – Present   🎓  B.Tech CSE @ Aditya College of Engineering & Technology
-                      • CGPA: 9.0 / 10
-                      • Coursework: Data Structures, Algorithms, DBMS, Web Development, Software Engineering
+<table align="center" width="100%">
+<tr>
+<th align="center" width="18%">Period</th>
+<th align="left" width="32%">Role / Distinction</th>
+<th align="left" width="50%">Organization & Key Deliverables</th>
+</tr>
 
- 2024             💼  Full Stack Developer Intern @ Technical Hub
-                      • Built IDzyne smart attendance app using Flutter, Express & Firebase
-                      • Worked in a 5-member Agile team across 2 sprint cycles delivering 5+ modules
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/2026-🏆_HACKATHON-FFD700?style=flat-square"/><br/>
+  <sub>Project Space</sub>
+</td>
+<td valign="top">
+  <strong>Rank 7 / 160 Teams</strong><br/>
+  <sub>National AI/IoT Hackathon</sub>
+</td>
+<td valign="top">
+  • Built <strong>SafePulse</strong>: AI-powered travel safety companion with live GPS tracking.<br/>
+  • Integrated TensorFlow accident detection delivering sub-2s emergency response alerts.
+</td>
+</tr>
 
- 2024             🏆  Project Space Hackathon — Rank 7 / 160 Teams
-                      • Developed SafePulse: AI-assisted real-time travel safety companion
-```
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/2025-💼_INTERNSHIP-0a66c2?style=flat-square"/><br/>
+  <sub>Technical Hub</sub>
+</td>
+<td valign="top">
+  <strong>Full Stack Dev Intern</strong><br/>
+  <sub>5-Member Agile Team</sub>
+</td>
+<td valign="top">
+  • Engineered <strong>IDzyne</strong> smart attendance platform using Flutter, Node.js & Firebase.<br/>
+  • Shipped 5+ core modules across 2 sprint cycles on schedule.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Present-🎓_EDUCATION-58a6ff?style=flat-square"/><br/>
+  <sub>ACET College</sub>
+</td>
+<td valign="top">
+  <strong>B.Tech in CSE</strong><br/>
+  <sub>CGPA: 9.0 / 10</sub>
+</td>
+<td valign="top">
+  • Specializing in Full-Stack Web/Mobile, Distributed Backend Systems & AI Engineering.<br/>
+  • 6+ Industry Certifications (Red Hat RHCSA, Oracle Java, MongoDB, Microsoft).
+</td>
+</tr>
+</table>
 
 <hr/>
 
