@@ -1,108 +1,156 @@
-<!-- ANIMATED HEADER BANNER -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║          🔮 GLASSMORPHIC ANIMATED PROFILE README 🔮         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<!-- ANIMATED GRADIENT HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=200&section=header&text=Kalesha%20Vali%20Dokuparthi&fontSize=42&fontColor=c9d1d9&fontAlignY=35&desc=Software%20Engineer%20·%20Full%20Stack%20·%20AI%20Systems&descAlignY=55&descSize=16&descColor=8b949e&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:845EC2,50:0081CF,75:00C9A7,100:C34A36&height=250&section=header&text=Kalesha%20Vali%20Dokuparthi&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=🚀%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=52&descSize=18&descColor=ffffff&animation=twinkling" width="100%"/>
+</p>
+
+<!-- ANIMATED TYPING SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=845EC2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=⚡+Building+AI-Powered+Scalable+Systems+That+Ship+to+Production;🔥+9.0+CGPA+%7C+6+Certifications+%7C+Rank+7%2F160+Hackathon+%7C+550%2B+DSA+Solved" alt="Typing SVG" /></a>
+</p>
+
+<!-- GLASSMORPHIC STATUS BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-Junior_SDE_·_Full--Stack_·_Backend-00C9A7?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 <p align="center">
-  <a href="mailto:kaleshavalid2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-kaleshavalid2005-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kalesha-vali"><img src="https://img.shields.io/badge/LinkedIn-kalesha--vali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/23mh1a05g0"><img src="https://img.shields.io/badge/GitHub-23mh1a05g0-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="tel:+918143837005"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:kaleshavalid2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kalesha-vali"><img src="https://img.shields.io/badge/LinkedIn-0081CF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/23mh1a05g0"><img src="https://img.shields.io/badge/GitHub-845EC2?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="tel:+918143837005"><img src="https://img.shields.io/badge/WhatsApp-00C9A7?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=23mh1a05g0&label=Profile+Views&color=845EC2&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/followers/23mh1a05g0?style=for-the-badge&color=FF6B6B&label=Followers&labelColor=0d1117"/>
 </p>
+
+<!-- ─── ANIMATED NAVIGATION ─── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%"/>
+</p>
+
+<h3 align="center">
+  <a href="#-about-me">⚡ About</a> &nbsp;│&nbsp;
+  <a href="#-tech-arsenal">🛠 Skills</a> &nbsp;│&nbsp;
+  <a href="#-flagship-projects">🚀 Projects</a> &nbsp;│&nbsp;
+  <a href="#-journey">📐 Journey</a> &nbsp;│&nbsp;
+  <a href="#-certifications">📜 Certs</a> &nbsp;│&nbsp;
+  <a href="#-github-analytics--heatmaps">📊 Analytics</a> &nbsp;│&nbsp;
+  <a href="#-lets-connect">💬 Contact</a>
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=23mh1a05g0&label=Profile+Views&color=6e40c9&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open_to_Work-✓-238636?style=flat-square&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-9.0%2F10-58a6ff?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/23mh1a05g0?style=flat-square&color=6e40c9&label=Followers" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%"/>
 </p>
 
-<!-- ─── NAVIGATION BAR ─── -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## ⚡ About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23mh1a05g0&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=845EC2&text_color=c9d1d9&langs_count=6" width="250"/>
+
+```js
+const kalesha = {
+  role:     "Full Stack Developer & AI Engineer",
+  cgpa:     "9.0 / 10",
+  college:  "Aditya College of Engineering & Technology",
+  location: "Ongole, Andhra Pradesh 🇮🇳",
+
+  expertise: [
+    "React · Node.js · Spring Boot",
+    "Flutter · MongoDB · AWS",
+    "TensorFlow · OpenAI · Kafka",
+    "Docker · Kubernetes · Jenkins"
+  ],
+
+  currentlyBuilding: "AI-powered production systems",
+  seeking: "Junior SDE / Full-Stack / Backend roles",
+  funFact: "I ranked 7th out of 160 teams 🏆"
+};
+```
+
+> **CS Engineering student who ships production-grade full-stack & mobile applications** — from React frontends to Spring Boot microservices with Kafka, Docker, and AWS. Built AI-powered safety systems ranking **7th/160 teams** at a national hackathon, and delivered enterprise patterns like circuit breakers, event-driven architectures, and fault-tolerant notification pipelines.
+
+<br clear="right"/>
+
 <p align="center">
-  <a href="#-about"><strong>About</strong></a> · 
-  <a href="#-skills"><strong>Skills</strong></a> · 
-  <a href="#-featured-projects"><strong>Projects</strong></a> · 
-  <a href="#-experience--education"><strong>Experience</strong></a> · 
-  <a href="#-certifications--achievements"><strong>Certs</strong></a> · 
-  <a href="#-github-analytics"><strong>Stats</strong></a> · 
-  <a href="#-lets-connect"><strong>Contact</strong></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🎯 About
+## 🛠 Tech Arsenal
 
-CS Engineering student (9.0 CGPA) who ships production-style full-stack and mobile applications — from **React + Node.js** frontends to **Spring Boot microservices** with **Kafka**, **Docker**, and **AWS**. Built AI-powered safety systems that ranked **7th out of 160 teams** at a national hackathon, and delivered enterprise patterns like circuit breakers, event-driven architectures, and fault-tolerant notification pipelines.
+<!-- ANIMATED SKILL BARS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,dart,react,nodejs,express,html,css,flutter&theme=dark&perline=12" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,firebase,aws,docker,kubernetes,jenkins,linux,tensorflow,kafka,git&theme=dark&perline=12" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,postman,vscode,figma&theme=dark&perline=12" />
+</p>
 
-**Currently targeting:** Junior Software Developer · Full-Stack Engineer · Backend Engineer
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🛠 Skills
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,dart&theme=dark&perline=3" />
-
-</td>
-<td align="center" width="33%">
-
-**Web & Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,flutter&theme=dark&perline=3" />
+### 💻 Languages & Frameworks
+```text
+Java          ████████████████████░  95%
+Python        ███████████████████░░  90%
+JavaScript    ███████████████████░░  90%
+Dart/Flutter  █████████████████░░░░  80%
+C / C++       ████████████████░░░░░  75%
+```
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,firebase&theme=dark&perline=4" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux&theme=dark&perline=3" />
-
-</td>
-<td align="center" width="33%">
-
-**AI & Developer Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,postman,vscode,figma&theme=dark&perline=3" />
-
-</td>
-<td align="center" width="33%">
-
-**APIs & Messaging**
-<br/>
-<img src="https://skillicons.dev/icons?i=kafka&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+### ☁️ Cloud, DevOps & AI
+```text
+Spring Boot   ████████████████████░  95%
+Docker        ███████████████████░░  90%
+AWS           █████████████████░░░░  80%
+Kubernetes    ████████████████░░░░░  75%
+TensorFlow    ████████████████░░░░░  75%
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resilience4j-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Eng.-845EC2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio"/>
+</p>
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%"/>
+</p>
 
-<details open>
-<summary><b>🚨 SafePulse — AI-Based Travel Safety System</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/🏆_Rank-7%2F160_Teams-FFD700?style=flat-square"/></summary>
-<br/>
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-> Real-time travel safety companion with live journey monitoring, crash detection, safety-scored routing, and hands-free emergency response.
+## 🚀 Flagship Projects
+
+<!-- PROJECT 1: SAFEPULSE -->
+<table>
+<tr>
+<td>
+
+### 🚨 SafePulse — AI-Based Travel Safety System &nbsp; <img src="https://img.shields.io/badge/🏆_Rank-7%2F160-FFD700?style=flat-square"/>
+
+> *Real-time travel safety companion — live GPS, crash detection, safety-scored routing, and hands-free SOS for commuters & families.*
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -111,56 +159,71 @@ CS Engineering student (9.0 CGPA) who ships production-style full-stack and mobi
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Overpass_API-7EBC6F?style=flat-square"/>
 </p>
 
-- **Architected** Spring Boot + Node.js microservices handling **50+ concurrent users** with zero data loss
-- **Integrated** TensorFlow accident detection model achieving **+35% safety accuracy** improvement
-- **Engineered** real-time GPS tracking + SOS alerts with **sub-2s emergency response** latency
+| Metric | Result |
+|--------|--------|
+| 🏗️ **Architected** Spring Boot + Node.js dual-backend microservices | **50+ concurrent users**, zero data loss |
+| 🧠 **Integrated** TensorFlow accident detection model | **+35% safety accuracy** improvement |
+| ⚡ **Engineered** real-time GPS tracking + SOS alert pipeline | **Sub-2s** emergency response latency |
+| 🔐 **Implemented** OTP/PIN circle join + time-limited invite codes | Secure trusted-circle membership |
 
-[🔗 **View Repository**](https://github.com/23mh1a05g0)
+<p><a href="https://github.com/23mh1a05g0"><img src="https://img.shields.io/badge/🔗_View_Repository-845EC2?style=for-the-badge&logoColor=white"/></a></p>
 
-</details>
+</td>
+</tr>
+</table>
 
-<details open>
-<summary><b>🔔 Resilient Notification Service — Event-Driven Microservice</b></summary>
-<br/>
+<!-- PROJECT 2: RESILIENT NOTIFICATION SERVICE -->
+<table>
+<tr>
+<td>
 
-> Production-quality Spring Boot microservice demonstrating async Kafka processing with Resilience4j Circuit Breaker, fully Dockerized.
+### 🔔 Resilient Notification Service — Event-Driven Microservice
+
+> *Production-quality Spring Boot microservice with async Kafka processing, Resilience4j Circuit Breaker, and full Docker orchestration.*
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Resilience4j-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resilience4j-000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square"/>
 </p>
 
-- **Implemented** Circuit Breaker pattern (CLOSED → OPEN → HALF_OPEN) with automated fallback and state-transition logging
-- **Built** async Kafka producer/consumer pipeline returning **HTTP 202** with UUID-tracked event processing
-- **Achieved** 23/23 automated tests passing (unit + integration) with EmbeddedKafka and Mockito
+| Metric | Result |
+|--------|--------|
+| 🔄 **Implemented** Circuit Breaker (CLOSED → OPEN → HALF_OPEN) with fallback | Automated fault tolerance |
+| 📨 **Built** async Kafka producer/consumer with UUID-tracked events | **HTTP 202** instant response |
+| ✅ **Achieved** full test coverage with EmbeddedKafka + Mockito | **23/23** tests passing |
 
-[🔗 **View Repository**](https://github.com/23mh1a05g0/Resilient-Notification-Service)
+<p><a href="https://github.com/23mh1a05g0/Resilient-Notification-Service"><img src="https://img.shields.io/badge/🔗_View_Repository-0081CF?style=for-the-badge&logoColor=white"/></a></p>
 
-</details>
+</td>
+</tr>
+</table>
 
+<!-- PROJECT 3 & 4 COLLAPSED -->
 <details>
 <summary><b>📚 Whimsy RAG — AI Document Intelligence Assistant</b></summary>
 <br/>
 
-> Chat-style RAG application that indexes PDFs via TF-IDF + cosine similarity and answers questions using extractive NLP or OpenAI GPT-4o.
+> *Chat-style RAG app that indexes PDFs via TF-IDF + cosine similarity and answers questions using extractive NLP or OpenAI GPT-4o.*
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
 
-- **Designed** dual-engine architecture: offline extractive Q&A + LLM-powered synthesis with automatic fallback
-- **Built** modern glassmorphic conversational UI with real-time AJAX chat and drag-and-drop PDF upload
-- **Implemented** TF-IDF vectorization with cosine similarity for context-aware document chunk retrieval
+- 🧩 **Designed** dual-engine architecture — offline extractive Q&A + LLM synthesis with automatic fallback
+- 🎨 **Built** glassmorphic conversational UI with real-time AJAX chat & drag-and-drop PDF upload
+- 🔍 **Implemented** TF-IDF vectorization with cosine similarity for context-aware chunk retrieval
 
-[🔗 **View Repository**](https://github.com/23mh1a05g0/Whimsy-RAG-AI-Document-Intelligence-Assistant)
+<p><a href="https://github.com/23mh1a05g0/Whimsy-RAG-AI-Document-Intelligence-Assistant"><img src="https://img.shields.io/badge/🔗_View_Repository-FF6B6B?style=for-the-badge&logoColor=white"/></a></p>
 
 </details>
 
@@ -168,131 +231,130 @@ CS Engineering student (9.0 CGPA) who ships production-style full-stack and mobi
 <summary><b>📋 IDzyne — Smart Attendance Management System</b></summary>
 <br/>
 
-> Full-stack attendance platform built during a dev internship with a 5-member Agile team across 2 sprint cycles.
+> *Full-stack attendance platform built during a dev internship — 5-member Agile team, 2 sprints, 5+ modules shipped.*
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
-- **Delivered** 5+ core modules on schedule: attendance tracking, report generation, and trainee dashboards
-- **Connected** 3+ Flutter frontend screens to a Node.js/Express/Firebase backend with REST APIs
-- **Collaborated** in a 5-member Agile team at Technical Hub internship with structured sprint planning
+- 📦 **Delivered** 5+ core modules on schedule — attendance tracking, report generation, dashboards
+- 🔗 **Connected** 3+ Flutter screens to Node.js/Express/Firebase backend via REST APIs
+- 👥 **Collaborated** in Agile team at Technical Hub with structured sprint planning
 
-[🔗 **View Repository**](https://github.com/23mh1a05g0)
+<p><a href="https://github.com/23mh1a05g0"><img src="https://img.shields.io/badge/🔗_View_Repository-00C9A7?style=for-the-badge&logoColor=white"/></a></p>
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📐 Experience & Education
-
-```
-2024 – Present   🎓  B.Tech CSE @ Aditya College of Engineering & Technology, Surampalem
-                     • CGPA: 9.0/10
-                     • Focus: Full-Stack Development, AI/ML, Cloud & DevOps
-
-2024             💼  Full Stack Dev Intern @ Technical Hub
-                     • Built IDzyne attendance system (Flutter + Express + Firebase)
-                     • 5-member Agile team, 2 sprint cycles, 5+ modules shipped
-
-2024             🏆  Project Space Hackathon — Rank 7 / 160 teams
-                     • SafePulse: AI-powered travel safety companion
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📜 Certifications & Achievements
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### Certifications
-
-<p>
-<img src="https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle_Java_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Oracle_DB_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB_Associate-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/IT_Specialist_HTML%2FCSS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%"/>
 </p>
 
-</td>
-<td width="45%" valign="top">
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-### Competitive Programming
+## 📐 Journey
 
-| Platform | Stats |
-|----------|-------|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/> | **150+** problems solved |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/> | **300+** problems solved |
-| <img src="https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/> | **100+** problems solved |
-| <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/> | **5★** Java, Python, SQL, C |
+```
+ 2024 – Present   🎓  B.Tech CSE @ Aditya College of Engineering & Technology
+                      ┃  CGPA: 9.0/10
+                      ┗━ Focus: Full-Stack · AI/ML · Cloud & DevOps
 
-</td>
+ 2024              💼  Full Stack Dev Intern @ Technical Hub
+                      ┃  Built IDzyne (Flutter + Express + Firebase)
+                      ┗━ 5-member Agile team · 2 sprints · 5+ modules
+
+ 2024              🏆  Project Space Hackathon — Rank 7 / 160 Teams
+                      ┗━ SafePulse: AI-powered travel safety companion
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%"/>
+</p>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Java_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_DB_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB_Associate_Dev-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IT_Specialist_HTML%2FCSS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+### 🏅 Competitive Programming
+
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/LeetCode-150%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CodeChef-300%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/GFG-100%2B-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/HackerRank-5★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=23mh1a05g0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=6e40c9&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23mh1a05g0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%"/>
 </p>
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics & Heatmaps
+
+<!-- STATS ROW -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23mh1a05g0&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=23mh1a05g0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=845EC2&icon_color=FF6B6B&text_color=c9d1d9&count_private=true&ring_color=00C9A7" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=23mh1a05g0&theme=radical&hide_border=true&background=0d1117&stroke=845EC230&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00C9A7&sideLabels=845EC2&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </p>
 
+<!-- CONTRIBUTION ACTIVITY GRAPH / HEATMAP -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23mh1a05g0&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=6e40c9" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23mh1a05g0&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=845EC2&line=FF6B6B&point=00C9A7&area_color=845EC230" width="98%"/>
 </p>
 
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=23mh1a05g0&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="98%"/>
+</p>
+
+<!-- LEETCODE HEATMAP -->
 <details>
-<summary><b>🏆 GitHub Trophies</b></summary>
+<summary><b>📈 LeetCode Heatmap & Stats</b></summary>
 <br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23mh1a05g0&theme=onestar&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+  <img src="https://leetcard.jacoblin.cool/kalesha_666?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/kalesha_666/"><img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 </details>
 
-<details>
-<summary><b>📈 LeetCode Stats</b></summary>
-<br/>
+<!-- SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kalesha_666?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://raw.githubusercontent.com/23mh1a05g0/23mh1a05g0/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-<p align="center">
-  <a href="https://leetcode.com/u/kalesha_666/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-</details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%"/>
+</p>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 💬 Let's Connect
 
 <p align="center">
-<img src="https://img.shields.io/badge/🔍_Looking_for-Junior_Software_Developer_·_Full--Stack_·_Backend_roles-238636?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=🎯+Targeting+Junior+SDE+·+Full--Stack+·+Backend+Roles;📬+Let's+build+something+amazing+together!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:kaleshavalid2005@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kalesha-vali"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="tel:+918143837005"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:kaleshavalid2005@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-FF6B6B?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kalesha-vali"><img src="https://img.shields.io/badge/💼_LinkedIn-0081CF?style=for-the-badge&logoColor=white"/></a>
+  <a href="tel:+918143837005"><img src="https://img.shields.io/badge/📱_WhatsApp-00C9A7?style=for-the-badge&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&pause=2000&color=8b949e&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!+Let's+build+something+great+together." />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=120&section=footer" width="100%"/>
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:845EC2,50:0081CF,75:00C9A7,100:C34A36&height=150&section=footer&animation=twinkling" width="100%"/>
