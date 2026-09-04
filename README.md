@@ -34,7 +34,7 @@
   <a href="#-featured-projects"><strong>Projects</strong></a> &nbsp;•&nbsp;
   <a href="#-experience--education"><strong>Timeline</strong></a> &nbsp;•&nbsp;
   <a href="#-certifications"><strong>Certifications</strong></a> &nbsp;•&nbsp;
-  <a href="#-coding-profiles--statistics"><strong>Coding Profiles</strong></a> &nbsp;•&nbsp;
+  <a href="#-live-coding-profiles--statistics"><strong>Coding Profiles</strong></a> &nbsp;•&nbsp;
   <a href="#-github-analytics"><strong>GitHub Analytics</strong></a> &nbsp;•&nbsp;
   <a href="#-lets-connect"><strong>Contact</strong></a>
 </p>
@@ -254,23 +254,47 @@ const kaleshaVali = {
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🧩 Coding Profiles & Statistics
+## 🧩 Live Coding Profiles & Statistics
 
+<!-- LIVE LEETCODE & GFG CARDS SIDE BY SIDE -->
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 🟡 LeetCode Live Card & Heatmap
+<a href="https://leetcode.com/u/kalesha_666/">
+  <img src="https://leetcard.jacoblin.cool/kalesha_666?theme=dark&font=baloo2&ext=heatmap" width="100%" alt="LeetCode Heatmap & Live Card" />
+</a>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 🟢 GeeksforGeeks Live Stats Card
+<a href="https://www.geeksforgeeks.org/user/kaleshavali/">
+  <img src="https://gfgstatscard.vercel.app/kaleshavali?theme=dark" width="100%" alt="GeeksforGeeks Live Stats Card" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<!-- SECONDARY LEETCODE STATS BREAKDOWN -->
 <p align="center">
   <a href="https://leetcode.com/u/kalesha_666/">
-    <img src="https://leetcard.jacoblin.cool/kalesha_666?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Heatmap & Stats" />
+    <img src="https://leetcode-stats.vercel.app/api?username=kalesha_666&theme=dark" alt="LeetCode Stats Breakdown" />
   </a>
 </p>
 
+<!-- QUICK PLATFORM LINKS -->
 <p align="center">
   <a href="https://leetcode.com/u/kalesha_666/">
     <img src="https://img.shields.io/badge/LeetCode-kalesha__666-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <a href="https://www.geeksforgeeks.org/user/kaleshavali/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-kaleshavali-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
   <a href="https://www.codechef.com/users/kalesha_666">
     <img src="https://img.shields.io/badge/CodeChef-300%2B_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/kaleshavali/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-100%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/kalesha_666">
     <img src="https://img.shields.io/badge/HackerRank-5★_Gold-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
