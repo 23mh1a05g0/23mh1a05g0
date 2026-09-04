@@ -270,8 +270,8 @@ const kaleshaVali = {
 <td align="center" width="50%" valign="top">
 
 ### 🟢 GeeksforGeeks Live Stats Card
-<a href="https://www.geeksforgeeks.org/user/kaleshavali/">
-  <img src="https://gfgstatscard.vercel.app/kaleshavali?theme=dark" width="100%" alt="GeeksforGeeks Live Stats Card" />
+<a href="https://www.geeksforgeeks.org/profile/kaleshava8i2h">
+  <img src="https://gfgstatscard.vercel.app/kaleshava8i2h?theme=dark" width="100%" alt="GeeksforGeeks Live Stats Card" />
 </a>
 
 </td>
@@ -290,8 +290,8 @@ const kaleshaVali = {
   <a href="https://leetcode.com/u/kalesha_666/">
     <img src="https://img.shields.io/badge/LeetCode-kalesha__666-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/kaleshavali/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-kaleshavali-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <a href="https://www.geeksforgeeks.org/profile/kaleshava8i2h">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-kaleshava8i2h-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/kalesha_666">
     <img src="https://img.shields.io/badge/CodeChef-300%2B_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
